@@ -26,23 +26,3 @@ This repository contains five laboratory exercises on **Convolutional Neural Net
 
 ### **5️⃣ Lab 05 - Model Fine-Tuning and Optimization**
 - Optimization techniques to improve CNN training (content not detailed in markdown).
-
-## 🔧 Requirements
-- Python 3.x
-- TensorFlow / PyTorch
-- NumPy
-- Matplotlib
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/hoangphuu/CNN_Labs.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run individual notebooks:
-   ```sh
-   jupyter notebook lab03.ipynb  # Replace with lab02.ipynb, lab04.ipynb, etc.
-   ```
